@@ -11,7 +11,7 @@ Introduction
 
 Fubo TV is a popular streaming service that provides live sports, entertainment, and news channels. To access its content, users need to log in to their account using valid credentials.
 
-.. image:: https://mcafee-antivirus.readthedocs.io/en/latest/_images/click-here.gif
+.. image:: login-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
